@@ -13,6 +13,8 @@ This project adopts a computational approach to analyze Pablo Picasso's artistic
 
 The goal is to identify recurring patterns, complex structures, and potential visual attractors within the metric space.
 
+![Alt text](https://github.com/Picasso-cognitive/Picasso-Artistic-Mind/blob/main/Supplementary%20Material%20E/Figure/Figure_1.png "Figure 1")
+
 ## Main Objectives
 
 - Data cleaning and management
